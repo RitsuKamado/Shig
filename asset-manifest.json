@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RitsuKamado/shig/static/css/main.aca2ba54.css",
-    "main.js": "/RitsuKamado/shig/static/js/main.c95907e9.js",
-    "static/js/787.371f9c8c.chunk.js": "/RitsuKamado/shig/static/js/787.371f9c8c.chunk.js",
-    "index.html": "/RitsuKamado/shig/index.html",
-    "main.aca2ba54.css.map": "/RitsuKamado/shig/static/css/main.aca2ba54.css.map",
-    "main.c95907e9.js.map": "/RitsuKamado/shig/static/js/main.c95907e9.js.map",
-    "787.371f9c8c.chunk.js.map": "/RitsuKamado/shig/static/js/787.371f9c8c.chunk.js.map"
+    "main.css": "/shig/static/css/main.aca2ba54.css",
+    "main.js": "/shig/static/js/main.06e03a33.js",
+    "static/js/787.371f9c8c.chunk.js": "/shig/static/js/787.371f9c8c.chunk.js",
+    "index.html": "/shig/index.html",
+    "main.aca2ba54.css.map": "/shig/static/css/main.aca2ba54.css.map",
+    "main.06e03a33.js.map": "/shig/static/js/main.06e03a33.js.map",
+    "787.371f9c8c.chunk.js.map": "/shig/static/js/787.371f9c8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aca2ba54.css",
-    "static/js/main.c95907e9.js"
+    "static/js/main.06e03a33.js"
   ]
 }
