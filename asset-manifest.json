@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RitsuKamado/shig/static/css/main.aca2ba54.css",
+    "main.js": "/RitsuKamado/shig/static/js/main.c95907e9.js",
+    "static/js/787.371f9c8c.chunk.js": "/RitsuKamado/shig/static/js/787.371f9c8c.chunk.js",
+    "index.html": "/RitsuKamado/shig/index.html",
+    "main.aca2ba54.css.map": "/RitsuKamado/shig/static/css/main.aca2ba54.css.map",
+    "main.c95907e9.js.map": "/RitsuKamado/shig/static/js/main.c95907e9.js.map",
+    "787.371f9c8c.chunk.js.map": "/RitsuKamado/shig/static/js/787.371f9c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aca2ba54.css",
+    "static/js/main.c95907e9.js"
+  ]
+}
